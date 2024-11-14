@@ -10,7 +10,7 @@
 
 $\psi\left( {x,0} \right) = \frac{1}{\left( 2\pi\sigma_{x}^{2})^{\frac{1}{4}} \right.}e^{- (x - x_{0})^{2}/(2\sigma_{x})^{2}}e^{i\frac{p_{0}}{\hslash}x}$
 
-这是在$ t=0 $时刻的波函数，其中的参数包括$ x_0,\sigma_x,p_0 $
+这是在t=0时刻的波函数，其中的参数包括$$x_0,\sigma_x,p_0 $$
 
 ### 约束情况
 
