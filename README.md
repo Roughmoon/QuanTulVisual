@@ -20,11 +20,13 @@ $\psi\left( {x,0} \right) = \frac{1}{\left( 2\pi\sigma_{x}^{2})^{\frac{1}{4}} \r
 
 
 
-$\begin{array}{l}
+$$
+\begin{array}{l}
 -\frac{h^{2}}{2 m} \frac{\mathrm{~d}^{2} \psi_{1}}{\mathrm{~d} x^{2}}=E \psi_{1}(x<0) \\
 -\frac{h^{2}}{2 m} \frac{\mathrm{~d}^{2} \psi_{2}}{\mathrm{~d} x^{2}}+U_{0} \psi_{2}=E \psi_{2}(0<x<a) \\
 -\frac{h^{2}}{2 m} \frac{\mathrm{~d}^{2} \psi_{3}}{\mathrm{~d} x^{2}}=E \psi_{3}(x>a)
-\end{array}$
+\end{array}
+$￥
 
 
 
@@ -33,11 +35,13 @@ $k_1=\frac{\sqrt{2mE}}{h},k_2=\frac{\sqrt{2m(E-V_0)}}{h},k_3=\frac{\sqrt{2m(V_0-
 
 这时候，薛定谔给的方程就可以携写成：
 
-$\begin{array}{l}
+$$
+\begin{array}{l}
 \frac{d^{2} \psi_{1}}{d x^{2}}+k_{1}^{2} \psi_{1}=0 \\
 \frac{d^{2} \psi_{2}}{d x^{2}}+k_{2}^{2} \psi_{2}=0 \\
 \frac{d^{2} \psi_{3}}{d x^{2}}+k_{1}^{2} \psi_{3}=0
-\end{array}$
+\end{array}
+$$
 
 # 文件说明
 
