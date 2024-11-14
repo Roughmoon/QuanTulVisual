@@ -26,7 +26,7 @@ $$
 -\frac{h^{2}}{2 m} \frac{\mathrm{~d}^{2} \psi_{2}}{\mathrm{~d} x^{2}}+U_{0} \psi_{2}=E \psi_{2}(0<x<a) \\
 -\frac{h^{2}}{2 m} \frac{\mathrm{~d}^{2} \psi_{3}}{\mathrm{~d} x^{2}}=E \psi_{3}(x>a)
 \end{array}
-$￥
+$$
 
 
 
